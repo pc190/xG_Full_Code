@@ -10,7 +10,8 @@ This repository contains the complete code to run the pre-processing, explorator
   - `data_loader.py`: Module for loading and processing match data.
   - `rathke.py`: Module for Rathke's method and visualization.
   - `fairchild.py`: Module for Fairchild model and analysis.
-  - `fcnn.py`: Module for FCNN and other machine learning models.
+  - `fcnn.py`: Module for FCNN model.
+  - 'main.py': Loads data and runs chosen model.
 - **notebooks/**: Jupyter notebook of Exploratory Data Analysis.
 - **results/**: Directory for storing xG results of each model.
   
